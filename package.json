@@ -1,0 +1,22 @@
+{
+  "name": "45rpm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://revdancatt@github.com/revdancatt/45rpm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/revdancatt/45rpm/issues"
+  },
+  "homepage": "https://github.com/revdancatt/45rpm#readme",
+  "devDependencies": {
+    "standard": "^17.0.0"
+  }
+}
